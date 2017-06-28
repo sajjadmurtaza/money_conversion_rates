@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="24fdfb27-fcc7-491f-bf4d-baa9464cf776" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/money_conversion_rates.gemspec" afterPath="$PROJECT_DIR$/money_conversion_rates.gemspec" />
     </list>
     <ignored path="money_conversion_rates.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -57,10 +56,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.2173913" vertical-offset="0" max-vertical-offset="621">
+            <state vertical-scroll-proportion="-5.4" vertical-offset="0" max-vertical-offset="270">
               <caret line="9" column="6" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
               <folding />
             </state>
@@ -107,11 +106,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="money_conversion_rates.gemspec" pinned="false" current-in-tab="false">
+      <file leaf-file-name="money_conversion_rates.gemspec" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/money_conversion_rates.gemspec">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="615">
-              <caret line="31" column="29" selection-start-line="31" selection-start-column="29" selection-end-line="31" selection-end-column="29" />
+            <state vertical-scroll-proportion="0.44117647" vertical-offset="0" max-vertical-offset="615">
+              <caret line="18" column="97" selection-start-line="18" selection-start-column="97" selection-end-line="18" selection-end-column="97" />
               <folding />
             </state>
           </provider>
@@ -137,8 +136,8 @@
       <list>
         <option value="$PROJECT_DIR$/lib/errors.rb" />
         <option value="$PROJECT_DIR$/lib/money_conversion_rates.rb" />
-        <option value="$PROJECT_DIR$/money_conversion_rates.gemspec" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/money_conversion_rates.gemspec" />
       </list>
     </option>
   </component>
@@ -778,18 +777,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/money_conversion_rates.gemspec">
+    <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="615">
-          <caret line="31" column="29" selection-start-line="31" selection-start-column="29" selection-end-line="31" selection-end-column="29" />
+        <state vertical-scroll-proportion="-5.4" vertical-offset="0" max-vertical-offset="270">
+          <caret line="9" column="6" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
+    <entry file="file://$PROJECT_DIR$/money_conversion_rates.gemspec">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.2173913" vertical-offset="0" max-vertical-offset="621">
-          <caret line="9" column="6" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
+        <state vertical-scroll-proportion="0.44117647" vertical-offset="0" max-vertical-offset="615">
+          <caret line="18" column="97" selection-start-line="18" selection-start-column="97" selection-end-line="18" selection-end-column="97" />
           <folding />
         </state>
       </provider>
