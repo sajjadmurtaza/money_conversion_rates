@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="24fdfb27-fcc7-491f-bf4d-baa9464cf776" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/money_conversion_rates/arithmetics.rb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/errors.rb" afterPath="$PROJECT_DIR$/lib/errors.rb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/money_conversion_rates.rb" afterPath="$PROJECT_DIR$/lib/money_conversion_rates.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="money_conversion_rates.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -31,7 +33,7 @@
         <entry file="file://$PROJECT_DIR$/lib/money_conversion_rates.rb">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.12520868" vertical-offset="0" max-vertical-offset="1035">
-              <caret line="5" column="32" selection-start-line="5" selection-start-column="32" selection-end-line="5" selection-end-column="32" />
+              <caret line="5" column="52" selection-start-line="5" selection-start-column="41" selection-end-line="5" selection-end-column="52" />
               <folding />
             </state>
           </provider>
@@ -752,7 +754,7 @@
     <entry file="file://$PROJECT_DIR$/lib/money_conversion_rates.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.12520868" vertical-offset="0" max-vertical-offset="1035">
-          <caret line="5" column="32" selection-start-line="5" selection-start-column="32" selection-end-line="5" selection-end-column="32" />
+          <caret line="5" column="52" selection-start-line="5" selection-start-column="41" selection-end-line="5" selection-end-column="52" />
           <folding />
         </state>
       </provider>
