@@ -5,6 +5,7 @@ module MoneyConversionRates
   class Money
 
     attr_accessor :amount , :currency
+    @rates = {}
 
     def initialize(amount, currency)
       raise InvalidAmountError   unless amount.is_a?(Numeric)
@@ -15,12 +16,18 @@ module MoneyConversionRates
     end
 
     def inspect
-      "#{'%.2f' % amount} #{currency}"
+      "#{'%.2f' % amount}, #{currency}"
     end
 
     def self.conversion_rates(currency, rates)
       raise InvalidRatesAHashError   unless rates.is_a?(Hash)
       raise InvalidRatesNumbersError unless rates.values.all? {|v| v.is_a?(Numeric) }
+
+      p "===================================="
+      p "Rates: #{rates}"
+      p "Currency: #{currency}"
+      p "===================================="
+
 
       @rates[currency.to_sym] = rates
     end
@@ -79,7 +86,7 @@ module MoneyConversionRates
     private
 
       def self.get_conversion_rates
-        @conversion_rates
+        @rates
       end
 
 
